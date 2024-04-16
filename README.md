@@ -15,7 +15,7 @@ trying out decision transformers as a Plate Heat Exchange (PHE) controller
 ## Data Preprocessing in Python:
 
 Python script used to load and preprocess the generated data from MATLAB.
-- Normalize the observation features, scale the rewards and returns, and handle any missing or invalid data points."
+- Normalize the observation features, scale the rewards and returns, and handle any missing or invalid data points.
 - Split the preprocessed data into training and validation sets.
 
 ## Custom Data Collator in Python:
