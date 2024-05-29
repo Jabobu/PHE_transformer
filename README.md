@@ -4,7 +4,7 @@ trying out decision transformers as a Plate Heat Exchange (PHE) controller
 
 ## LINKS: 
 - [Decision Transformer](https://github.com/kzl/decision-transformer)
-- [HuggingFace Decision Transformer](https://github.com/huggingface/blog/blob/main/notebooks/101_train-decision-transformers.ipynb)
+- [HuggingFace Decision Transformer](https://huggingface.co/blog/decision-transformers)
 
 ## Data Generation and Storage:
 
